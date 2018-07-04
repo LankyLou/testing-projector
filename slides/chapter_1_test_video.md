@@ -13,7 +13,7 @@ transformations:
 ## Test video sdfg
 
 *** =lower_third
-name: Firstname sdfg
+name: Firstname sdfgsasfgsdf
 title: Instructor
 
 *** =script
