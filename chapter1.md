@@ -119,3 +119,13 @@ test_function("matplotlib.pyplot.show")
 
 success_msg("Great work!")
 ```
+
+--- type:VideoExercise lang:python xp:50 skills:2 key:475c431daa
+## Test video
+
+
+*** =video_link
+//player.vimeo.com/video/154783078
+
+*** =projector_key
+81de769ce7158fe2caf5bce0089dc099
